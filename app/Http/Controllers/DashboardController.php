@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Inertia\Inertia;
 use Illuminate\Http\Request;
-use App\Models\Post;
+use App\Models\post;
 
 class DashboardController extends Controller
 {
